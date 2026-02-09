@@ -1,0 +1,17 @@
+{
+  "name": "belle-fragrantica-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs",
+    "scrape:dry": "node scrape.mjs --dry-run",
+    "scrape:skip": "node scrape.mjs --skip-existing",
+    "upload": "node upload.mjs",
+    "upload:dry": "node upload.mjs --dry-run"
+  },
+  "dependencies": {
+    "firebase": "^11.0.0",
+    "puppeteer": "^23.0.0"
+  }
+}

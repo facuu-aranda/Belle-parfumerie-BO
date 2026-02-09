@@ -1,0 +1,309 @@
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>404 - Page Not Found | Fragrantica</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/new-css/mfga-tailwind4.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300&display=swap');
+
+        :root {
+            --fr-teal: #008B92;
+            --fr-teal-light: #00a8b1;
+            --fr-crimson: #DC143C;
+            --bg: #fafaf8;
+            --text: #1a1a1a;
+            --text-muted: #6b6b6b;
+            --trail-color: rgba(0, 139, 146, 0.08);
+        }
+
+        .dark {
+            --bg: #0f0f0f;
+            --text: #e8e8e8;
+            --text-muted: #888;
+            --trail-color: rgba(0, 139, 146, 0.12);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Scent trail particles */
+        .scent-field {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .trail {
+            position: absolute;
+            border-radius: 50%;
+            background: var(--trail-color);
+            filter: blur(40px);
+            animation: drift linear infinite;
+        }
+
+        .trail:nth-child(1) { width: 300px; height: 300px; left: 10%; top: 20%; animation-duration: 18s; animation-delay: 0s; }
+        .trail:nth-child(2) { width: 200px; height: 200px; right: 15%; top: 10%; animation-duration: 22s; animation-delay: -4s; }
+        .trail:nth-child(3) { width: 250px; height: 250px; left: 50%; bottom: 10%; animation-duration: 20s; animation-delay: -8s; }
+        .trail:nth-child(4) { width: 180px; height: 180px; right: 30%; bottom: 30%; animation-duration: 25s; animation-delay: -12s; opacity: 0.7; }
+
+        @keyframes drift {
+            0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.6; }
+            25% { transform: translate(30px, -40px) scale(1.1); opacity: 1; }
+            50% { transform: translate(-20px, -70px) scale(0.9); opacity: 0.5; }
+            75% { transform: translate(40px, -30px) scale(1.05); opacity: 0.8; }
+        }
+
+        /* Main content */
+        .content {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+            padding: 2rem;
+            max-width: 680px;
+        }
+
+        /* Perfume bottle silhouette */
+        .bottle-wrap {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
+
+        .bottle-svg {
+            width: 80px;
+            height: 120px;
+            opacity: 0.15;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .dark .bottle-svg { opacity: 0.2; }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* Wisp rising from bottle */
+        .wisp {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            bottom: 100px;
+            width: 2px;
+            height: 60px;
+            pointer-events: none;
+        }
+
+        .wisp-line {
+            fill: none;
+            stroke: var(--fr-teal);
+            stroke-width: 1.5;
+            stroke-linecap: round;
+            opacity: 0.3;
+            stroke-dasharray: 80;
+            stroke-dashoffset: 80;
+            animation: wisp-rise 4s ease-in-out infinite;
+        }
+
+        .wisp-line:nth-child(2) { animation-delay: 1.3s; opacity: 0.2; }
+        .wisp-line:nth-child(3) { animation-delay: 2.6s; opacity: 0.15; }
+
+        @keyframes wisp-rise {
+            0% { stroke-dashoffset: 80; opacity: 0; }
+            30% { opacity: 0.3; }
+            100% { stroke-dashoffset: 0; opacity: 0; }
+        }
+
+        /* 404 number */
+        .four-oh-four {
+            font-size: clamp(7rem, 20vw, 14rem);
+            font-weight: 300;
+            letter-spacing: -0.03em;
+            line-height: 1;
+            color: var(--fr-teal);
+            margin-bottom: 0.3em;
+            position: relative;
+        }
+
+        .four-oh-four::after {
+            content: '';
+            position: absolute;
+            bottom: 0.1em;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 1px;
+            background: var(--fr-crimson);
+            opacity: 0.5;
+        }
+
+        /* Text */
+        .subtitle {
+            font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+            font-weight: 400;
+            color: var(--text);
+            margin-bottom: 0.8em;
+            letter-spacing: 0.04em;
+        }
+
+        .message {
+            font-size: clamp(0.95rem, 1.8vw, 1.1rem);
+            font-weight: 300;
+            font-style: italic;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin-bottom: 2.5em;
+        }
+
+        /* Links */
+        .actions {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .action-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5em;
+            padding: 0.75em 1.8em;
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1rem;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            text-decoration: none;
+            border: 1px solid;
+            transition: all 0.3s ease;
+        }
+
+        .action-primary {
+            background: var(--fr-teal);
+            color: #fff;
+            border-color: var(--fr-teal);
+        }
+
+        .action-primary:hover {
+            background: var(--fr-teal-light);
+            border-color: var(--fr-teal-light);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 20px rgba(0, 139, 146, 0.25);
+        }
+
+        .action-secondary {
+            background: transparent;
+            color: var(--text);
+            border-color: var(--text-muted);
+        }
+
+        .action-secondary:hover {
+            border-color: var(--fr-teal);
+            color: var(--fr-teal);
+            transform: translateY(-1px);
+        }
+
+        /* Divider line */
+        .divider {
+            width: 1px;
+            height: 40px;
+            background: linear-gradient(to bottom, transparent, var(--text-muted), transparent);
+            margin: 2.5rem auto;
+            opacity: 0.3;
+        }
+
+        .brand {
+            font-size: 0.8rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            opacity: 0.5;
+        }
+
+        .brand a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .brand a:hover {
+            color: var(--fr-teal);
+        }
+    </style>
+</head>
+<body>
+    <!-- Ambient scent trails -->
+    <div class="scent-field">
+        <div class="trail"></div>
+        <div class="trail"></div>
+        <div class="trail"></div>
+        <div class="trail"></div>
+    </div>
+
+    <main class="content">
+        <!-- Perfume bottle silhouette with rising wisp -->
+        <div class="bottle-wrap" style="position: relative;">
+            <svg class="wisp" viewBox="0 0 20 80" style="position: absolute; bottom: 110px; width: 20px; height: 80px;">
+                <path class="wisp-line" d="M10 80 Q5 60 10 45 Q15 30 10 15 Q8 5 10 0"></path>
+                <path class="wisp-line" d="M12 80 Q7 55 12 40 Q17 25 12 10 Q10 3 13 0"></path>
+                <path class="wisp-line" d="M8 80 Q13 58 8 42 Q3 28 8 12 Q6 4 7 0"></path>
+            </svg>
+            <svg class="bottle-svg" viewBox="0 0 80 120" fill="currentColor">
+                <!-- Cap -->
+                <rect x="28" y="0" width="24" height="12" rx="2"></rect>
+                <!-- Neck -->
+                <rect x="33" y="12" width="14" height="14" rx="1"></rect>
+                <!-- Shoulders -->
+                <path d="M33 26 Q33 26 15 42 Q10 47 10 55 L10 110 Q10 116 16 118 L64 118 Q70 118 70 110 L70 55 Q70 47 65 42 Q47 26 47 26 Z"></path>
+                <!-- Label area -->
+                <rect x="22" y="60" width="36" height="30" rx="2" fill="var(--bg)" opacity="0.3"></rect>
+            </svg>
+        </div>
+
+        <div class="four-oh-four">404</div>
+
+        <h1 class="subtitle">This fragrance has evaporated</h1>
+
+        <p class="message">
+            The page you're looking for has vanished like a fleeting top note.
+            <br>Perhaps it was reformulated, or it simply faded with time.
+        </p>
+
+        <div class="actions">
+            <a href="/" class="action-link action-primary">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M2 6l6-4.5L14 6v7.5a1.5 1.5 0 01-1.5 1.5h-9A1.5 1.5 0 012 13.5z"></path>
+                    <path d="M6 15V8h4v7"></path>
+                </svg>
+                Homepage
+            </a>
+            <a href="/buscar/" class="action-link action-secondary">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="7" cy="7" r="5"></circle>
+                    <path d="M14.5 14.5L10.5 10.5"></path>
+                </svg>
+                Search
+            </a>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="brand"><a href="/">Fragrantica</a></div>
+    </main>
+
+</body></html>

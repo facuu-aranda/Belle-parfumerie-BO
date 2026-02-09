@@ -1,0 +1,9010 @@
+[
+  {
+    "id": "d708f656-4244-4a9f-8153-9ea87e7c5384",
+    "nombre": "9AM Coral Pour Femme",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Rosa, Peonía, Almizcle Blanco — Floral Femenina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "6f20eb33-5274-4931-ab97-3ffaad7bb598",
+    "nombre": "9AM Dive",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 49100,
+      "mayorista_3": 47200,
+      "mayorista_10": 45600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4ced1e21-703b-4fc8-b1c6-9ade71e284ab",
+    "nombre": "9PM",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 48800,
+      "mayorista_3": 42600,
+      "mayorista_10": 41100,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c49f20aa-bd7f-4eb2-a8f8-9127dc8fc85f",
+    "nombre": "9PM",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "Elixir",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77500,
+      "mayorista_3": 63900,
+      "mayorista_10": 60800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4fe3c8f2-2360-4f63-8c74-6b70ab1ab2a2",
+    "nombre": "9pm Rebel",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Pimienta Negra, Cuero, Vetiver — Especiada Intensa",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "6d1ce838-8324-45f0-983d-4f57be1ddbfd",
+    "nombre": "Historic Doria",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 59700,
+      "mayorista_3": 53200,
+      "mayorista_10": 50200,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4d035a58-1495-42f8-afe2-aaebd9a4e6b4",
+    "nombre": "Historic Olmeda",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 60900,
+      "mayorista_3": 53200,
+      "mayorista_10": 50200,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3cbbefd8-3058-440a-ab72-7cd84a1f1c2a",
+    "nombre": "Historic Sahara",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "Extrait de Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Ámbar, Incienso, Madera de Agar — Oriental Desértico",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 68500,
+      "mayorista_3": 60800,
+      "mayorista_10": 57800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "6dea3fde-0826-4a69-a80a-7097da095d6c",
+    "nombre": "Supremacy Collector's Edition",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 98600,
+      "mayorista_3": 82100,
+      "mayorista_10": 77600,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1eb725c9-9cd1-4a0e-b2ea-0d8709d720cf",
+    "nombre": "Turathi Blue",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 74700,
+      "mayorista_3": 59300,
+      "mayorista_10": 54800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c8e0a26f-eb3a-47fa-90cc-a941cc617ac6",
+    "nombre": "Turathi Brown",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 75400,
+      "mayorista_3": 60800,
+      "mayorista_10": 57800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "afb4b9d1-4602-4817-8a49-8b0a23196c3e",
+    "nombre": "Turathi Electric",
+    "label": null,
+    "marca": "Afnan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 62600,
+      "mayorista_3": 53200,
+      "mayorista_10": 50200,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "14c3bf52-ea2b-442c-a2f3-aea8ee1256b1",
+    "nombre": "Amber Oud Aqua Dubai",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 80500,
+      "mayorista_3": 76000,
+      "mayorista_10": 71500,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e0c3627c-a310-440b-9f44-b51701917a8f",
+    "nombre": "Amber Oud Black Edition",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 91100,
+      "mayorista_3": 82100,
+      "mayorista_10": 76000,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "91e6785b-269f-4912-8971-c1233cfacdcb",
+    "nombre": "Amber Oud Blue Edition",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 99600,
+      "mayorista_3": 79100,
+      "mayorista_10": 76000,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "de9559df-df44-4a50-8032-8368e16dfa2a",
+    "nombre": "Amber Oud Carbon Edition",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 101100,
+      "mayorista_3": 82100,
+      "mayorista_10": 79100,
+      "decant": 14000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "8a7c3770-ed1d-4d95-899e-fdf6fb4ef15e",
+    "nombre": "Amber Oud Dubai Night",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 83300,
+      "mayorista_3": 74500,
+      "mayorista_10": 71500,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5bc26ed8-a095-46e3-ba5a-3586b31ba095",
+    "nombre": "Amber Oud Gold Edition",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "120ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 82000,
+      "mayorista_3": 76000,
+      "mayorista_10": 71500,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b802f034-9f06-44bf-8dd0-ede06b051e53",
+    "nombre": "Amber Oud Gold Edition",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "60ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "984bc7c8-660f-4856-a08a-99682bbc12cd",
+    "nombre": "Amber Oud Gold Extreme",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 114900,
+      "mayorista_3": 89700,
+      "mayorista_10": 85200,
+      "decant": 15000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4a836f18-256c-4784-8f36-90699bf54c86",
+    "nombre": "Detour Eco",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40800,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "701a4d72-fa96-4c0b-9a7f-e48000fbebd2",
+    "nombre": "Detour Noir",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "3461b718-b285-46d7-9b7e-3462bdd0252c",
+    "nombre": "Detour Noir Intense",
+    "label": null,
+    "marca": "Al Haramain",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 52300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5815bee7-a73e-4a40-9124-3af3be805091",
+    "nombre": "Bareeq Al Dhahad",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 32600,
+      "mayorista_3": 27400,
+      "mayorista_10": 25900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ad334d09-5cb4-43ce-86d7-c2a1bf3d7790",
+    "nombre": "Lazuli",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "03daedb6-b4e3-4fd5-a6ea-b6d4325f96ef",
+    "nombre": "Sabah Al Ward",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "7082225e-fc29-42f7-b219-6d768bd138d3",
+    "nombre": "Thahaani",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40800,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "49333d2a-bbac-4095-a76e-277d8838da92",
+    "nombre": "Tibyan",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 36200,
+      "mayorista_3": 30400,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "532bf2db-1b4c-4813-a85c-3b37e682026f",
+    "nombre": "Watani Purple",
+    "label": null,
+    "marca": "Al Wataniah",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38500,
+      "mayorista_3": 32000,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "78900e3f-8e0a-4df2-8ecb-7209b684800b",
+    "nombre": "Club de Nuit Iconic Blue",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 79200,
+      "mayorista_3": 68400,
+      "mayorista_10": 65400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3d6b0d8b-b0f9-423a-8ae8-65da659e9305",
+    "nombre": "Club de Nuit Imperiale",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 79500,
+      "mayorista_3": 63900,
+      "mayorista_10": 60800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "02d54560-f3fa-4b61-a101-81fcc3dd903b",
+    "nombre": "Club de Nuit Intense",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDT",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 59900,
+      "mayorista_3": 54800,
+      "mayorista_10": 51700,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a84f34ec-ef3d-42ed-8739-1303e68acce3",
+    "nombre": "Club de Nuit Lionheart",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "0f1d8fcb-d915-4ca5-bcc3-f1d62b33edbc",
+    "nombre": "Club De Nuit Maleka",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 76700,
+      "mayorista_3": 68400,
+      "mayorista_10": 65400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f8bf0fff-ade7-401f-9bb8-8c359a695cc3",
+    "nombre": "Club De Nuit Precieux I",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "Extrait De Parfum",
+    "volumen": "55ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 88800,
+      "mayorista_3": 77600,
+      "mayorista_10": 74500,
+      "decant": 17000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ca60b56e-66f1-4cfb-8d5a-b6568a2cc46c",
+    "nombre": "Club de Nuit Sillage",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 64700,
+      "mayorista_3": 59300,
+      "mayorista_10": 56300,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "24b6fee1-0fef-4e5a-8700-fbb718dc481a",
+    "nombre": "Club de Nuit Untold",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 80000,
+      "mayorista_3": 70000,
+      "mayorista_10": 65400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c2f1de8a-122b-445b-8dc7-0f6ba4f0983e",
+    "nombre": "Club de Nuit Urban",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "Elixir",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 64400,
+      "mayorista_3": 57800,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "cdcf99f7-9ac8-4ea6-9ca5-0d7c38e313d2",
+    "nombre": "Club de Nuit Woman",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "105ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "89a62242-0a1d-4b7c-9139-fa32960f5aad",
+    "nombre": "Odyssey Aoud",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "dad90668-e961-4435-8084-56064960f545",
+    "nombre": "Odyssey Aqua EDP 100 ml",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 62400,
+      "mayorista_3": 48700,
+      "mayorista_10": 44100,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "40384e87-6cfb-4447-a2c0-840642003b63",
+    "nombre": "Odyssey Artisto",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "4b9239ac-0893-42fc-b051-00ec30a95454",
+    "nombre": "Odyssey Candee",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45900,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "80bb2823-fc4a-462f-8ca8-a0eca5f74d3e",
+    "nombre": "Odyssey Dubai Chocolat",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Rojas, Vainilla, Caramelo — Gourmand Frutal",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "4df79c2d-f433-4561-83f0-3d8ec57f7133",
+    "nombre": "Odyssey Eau de Montagne",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 36500,
+      "mayorista_3": 36500,
+      "mayorista_10": 36500,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fd12e1db-df30-4784-97cf-09b86b6a1f54",
+    "nombre": "Odyssey Femme Black",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 35000,
+      "mayorista_3": 35000,
+      "mayorista_10": 35000,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "50f606cb-525b-49f0-a899-20731886244e",
+    "nombre": "Odyssey Homme",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 54600,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "43cd55b4-9605-430e-b9c9-f186983f2baf",
+    "nombre": "Odyssey Homme White",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e6024698-0d24-48f8-8d12-b84147e16573",
+    "nombre": "Odyssey Limoni Fresh Edition",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 53800,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e62b7b3e-5684-4032-a5cb-b1a25b839f12",
+    "nombre": "Odyssey Mandarin Sky For Men",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 54600,
+      "mayorista_3": 50200,
+      "mayorista_10": 45600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "cb3fbc1b-d851-47fe-b507-9620113eb1a2",
+    "nombre": "Odyssey Mandarin Sky Elixir",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 87300,
+      "mayorista_3": 74500,
+      "mayorista_10": 71500,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "966bb044-ce0f-4ef1-aac8-4b3d9be37b81",
+    "nombre": "Odyssey Mega Man",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 54800,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d83963ca-ef70-4df8-b0ec-573563513c32",
+    "nombre": "Odyssey Mega Man",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "200ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 76200,
+      "mayorista_3": 62400,
+      "mayorista_10": 57800,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5c202171-a84b-4ca8-aeec-14d053317d15",
+    "nombre": "Odyssey Revolution",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 55600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "9778f310-dd7e-4d96-bb58-e16d27453777",
+    "nombre": "Odyssey Spectra",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 50300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5b4f1fcc-5c2b-410f-9735-40900601baea",
+    "nombre": "Odyssey Tyrant",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Pimienta Negra, Cuero, Vetiver — Especiada Intensa",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "693006e3-7e69-42a4-8e9b-41fd6d4644f6",
+    "nombre": "Wild One",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45800,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1a1c99bc-8161-46cd-9052-449974d1a353",
+    "nombre": "Tag Donna Di Terra Women",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "ed705b8f-633a-4ac6-ac0a-62fefdaef73c",
+    "nombre": "Tag Him Uomo Nero",
+    "label": null,
+    "marca": "Armaf",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49300,
+      "mayorista_3": 47200,
+      "mayorista_10": 45600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "2734679c-4f44-4094-8099-2b4df774da5c",
+    "nombre": "Ameer Al Arab Black",
+    "label": null,
+    "marca": "Asdaaf",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 37500,
+      "mayorista_3": 32000,
+      "mayorista_10": 28900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a0762158-5d4c-4a0d-9b86-212f0e66a42e",
+    "nombre": "Ameer Al Arab Imperium",
+    "label": null,
+    "marca": "Asdaaf",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 37500,
+      "mayorista_3": 32000,
+      "mayorista_10": 28900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "cddbfa31-9ec4-4c01-900f-2ac3059eb298",
+    "nombre": "Ameerat Al Arab",
+    "label": null,
+    "marca": "Asdaaf",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40000,
+      "mayorista_3": 32000,
+      "mayorista_10": 28900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d0cb9976-6173-4896-b506-a0ae18988ee7",
+    "nombre": "Ameerat Al Arab Prive Rose",
+    "label": null,
+    "marca": "Asdaaf",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40000,
+      "mayorista_3": 32000,
+      "mayorista_10": 28900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b30cd795-7f9c-4f52-ada9-673cd9fe7dd1",
+    "nombre": "Doble Blue",
+    "label": null,
+    "marca": "Bharara",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 103800,
+      "mayorista_3": 77600,
+      "mayorista_10": 71500,
+      "decant": 14000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f16b9aef-f456-4392-9741-8cb571763f8a",
+    "nombre": "King",
+    "label": null,
+    "marca": "Bharara",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 91100,
+      "mayorista_3": 82100,
+      "mayorista_10": 77600,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4ce85739-cbb2-4956-a53f-019091e7693f",
+    "nombre": "King",
+    "label": null,
+    "marca": "Bharara",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "adbc28db-904c-4430-87d4-82c73789db7f",
+    "nombre": "CK Be",
+    "label": null,
+    "marca": "Calvin Klein",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDT",
+    "volumen": "200ml",
+    "imagen": null,
+    "notas": "Cítricos, Notas Verdes, Almizcle — Eau de Toilette",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 66200,
+      "mayorista_3": 56300,
+      "mayorista_10": 53200,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "12a16128-6a3c-4f72-a725-8a28735de35f",
+    "nombre": "CK IN2U Fem",
+    "label": null,
+    "marca": "Calvin Klein",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDT",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Cítricos, Notas Verdes, Almizcle — Eau de Toilette",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 51800,
+      "mayorista_3": 48700,
+      "mayorista_10": 44100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "8c0927b2-fc2e-4596-9a3a-a323268b063c",
+    "nombre": "CK IN2U Men",
+    "label": null,
+    "marca": "Calvin Klein",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDT",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53900,
+      "mayorista_3": 48700,
+      "mayorista_10": 44100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "57a41b1c-73c2-4b79-86b9-0687054af922",
+    "nombre": "CK One",
+    "label": null,
+    "marca": "Calvin Klein",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDT",
+    "volumen": "200ml",
+    "imagen": null,
+    "notas": "Cítricos, Notas Verdes, Almizcle — Eau de Toilette",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 71200,
+      "mayorista_3": 62400,
+      "mayorista_10": 57800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4e2c78bf-0894-46dc-a6e8-f791d29e678e",
+    "nombre": "Nitro Blue",
+    "label": null,
+    "marca": "Dumont",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "50ea4039-fa31-403d-8970-e58837a48006",
+    "nombre": "Nitro Green",
+    "label": null,
+    "marca": "Dumont",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 64300,
+      "mayorista_3": 60800,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "77ccf45f-4245-4239-9d3d-89d4a266ae1e",
+    "nombre": "Nitro Red",
+    "label": null,
+    "marca": "Dumont",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "fc286885-52fd-4f29-8405-11c949c6fad6",
+    "nombre": "Nitro White",
+    "label": null,
+    "marca": "Dumont",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 74500,
+      "mayorista_3": 63900,
+      "mayorista_10": 60800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a2cd4b98-ce5e-4013-9013-05807acaf4db",
+    "nombre": "Mandora",
+    "label": null,
+    "marca": "Emper",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "(+decan20ml)",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 64200,
+      "mayorista_3": 56300,
+      "mayorista_10": 50200,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1b9e8a67-d608-4c5b-a7d7-9a7194b56af0",
+    "nombre": "Stallion 53",
+    "label": null,
+    "marca": "Emper",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "5b46d57c-6642-4a0a-a5d4-4c6648399817",
+    "nombre": "Aether",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "Extrait de Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 85500,
+      "mayorista_3": 73000,
+      "mayorista_10": 68400,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1e1677e1-e290-4b41-a2cc-9d985444189b",
+    "nombre": "Atlantis",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "Extrait de Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "0e77a100-dadf-4475-abbd-9eda5f9a29be",
+    "nombre": "Azzure Aoud",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47200,
+      "mayorista_3": 47200,
+      "mayorista_10": 47200,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e222d581-0388-416e-baae-9157f796d8c3",
+    "nombre": "Chaos",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "Extrait de Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 85500,
+      "mayorista_3": 76000,
+      "mayorista_10": 68400,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e69f61ab-fe36-4223-8487-d772521702c3",
+    "nombre": "Divin Asylum",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 81500,
+      "mayorista_3": 71500,
+      "mayorista_10": 65400,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3ea16912-dbe5-4c13-8761-0bed50e45c93",
+    "nombre": "Genesis Aquarius",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77000,
+      "mayorista_3": 63900,
+      "mayorista_10": 60800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "33845a72-c783-44d7-939c-3bbb301f3860",
+    "nombre": "Genesis Aries",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 78500,
+      "mayorista_3": 66900,
+      "mayorista_10": 63900,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4487f3f0-6c27-4a96-9317-50407b36140d",
+    "nombre": "Genesis Cancer",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 78500,
+      "mayorista_3": 66900,
+      "mayorista_10": 63900,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5c1efae1-f151-4bb2-a3fe-ea55fca4eb64",
+    "nombre": "Genesis Capricorn",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "18f3f6a8-0ab0-41ef-abeb-1d65bd7aadaf",
+    "nombre": "Genesis Gemini",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77700,
+      "mayorista_3": 65400,
+      "mayorista_10": 62400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "624dadf0-37d2-4268-8300-42f6e5867fe7",
+    "nombre": "Genesis Leo",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "23f8ef3d-4458-4c6d-bab2-87732b7a92d9",
+    "nombre": "Genesis Libra",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "7a1d77f7-b1e1-4134-a8a8-9d87ecf0f1f9",
+    "nombre": "Genesis Pisces",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77700,
+      "mayorista_3": 65400,
+      "mayorista_10": 62400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "73db1411-7ace-463b-a638-8f2834093374",
+    "nombre": "Genesis Sagittarius",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77700,
+      "mayorista_3": 65400,
+      "mayorista_10": 62400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fbf29b67-32e0-4e18-9e47-43850a94c766",
+    "nombre": "Genesis Scorpio",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "8e327bb6-6138-4595-90bc-ecfe1491d8a4",
+    "nombre": "Genesis Taurus",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 75400,
+      "mayorista_3": 60800,
+      "mayorista_10": 57800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "170c71e7-4d4d-428e-8fe2-02c37c57e4dc",
+    "nombre": "Genesis Virgo",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 77000,
+      "mayorista_3": 63900,
+      "mayorista_10": 60800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ab95ae8c-95d7-48fc-a8d7-f5c9b44d4b7b",
+    "nombre": "Liquid Brun",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Sándalo, Cedro, Vetiver — Amaderada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 63900,
+      "mayorista_3": 57800,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "2f2dfba0-de63-4789-b37d-5092c08cccea",
+    "nombre": "Pinnace Noir",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 87800,
+      "mayorista_3": 80600,
+      "mayorista_10": 73000,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e68d2eb7-06cd-4133-b2f2-a594df31f679",
+    "nombre": "Spectre",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "80ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "d0984f05-30ee-4bef-bdf9-440ef0d80c6a",
+    "nombre": "Spectre Ghost",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "80ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 72000,
+      "mayorista_3": 63900,
+      "mayorista_10": 57800,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "81e74a27-62bb-4da5-b12a-a48bead2fa82",
+    "nombre": "Spectre Wraith",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "80ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 80200,
+      "mayorista_3": 68400,
+      "mayorista_10": 63900,
+      "decant": 12000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f207251f-4952-48af-ba76-15a93a0389b5",
+    "nombre": "Thunder",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "Extrait de Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "90a7456c-94ec-48bf-baa2-0eee42865114",
+    "nombre": "Vulcan Baie",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 91300,
+      "mayorista_3": 80600,
+      "mayorista_10": 76000,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d2cb09c0-06c1-497d-9c2c-c95cb9166ae8",
+    "nombre": "Vulcan Feu",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Canela, Azafrán, Ámbar — Especiada Cálida",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 76700,
+      "mayorista_3": 68400,
+      "mayorista_10": 65400,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "82843475-d973-4170-8845-9f0706084765",
+    "nombre": "Vulcan Sable",
+    "label": null,
+    "marca": "French Avenue",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "22f53801-0b80-4566-902e-d2bc0ce12804",
+    "nombre": "Issey Miyake L'eau D'issey Pour Homme | EDT | 125 ml",
+    "label": null,
+    "marca": "Desconocida",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 92300,
+      "mayorista_3": 80600,
+      "mayorista_10": 74500,
+      "decant": 13000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "59f35781-1978-4b3d-82e2-321a49c5ec64",
+    "nombre": "Afeef",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "a6b2bbe0-b09b-4f5f-820b-4fcbe2f8c153",
+    "nombre": "Angham Edp 100ml",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "d23e4592-d1e8-4124-8439-be049b762d75",
+    "nombre": "Asad Black",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 41500,
+      "mayorista_3": 38000,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1abd6e47-32ec-4700-bd41-29ca3a128282",
+    "nombre": "Asad Bourbon",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Canela, Vainilla, Café — Gourmand Especiado",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 50300,
+      "mayorista_3": 45600,
+      "mayorista_10": 42600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d5d296d9-ab56-423b-839d-7f34c076d04c",
+    "nombre": "Asad Elixir",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 69100,
+      "mayorista_3": 53200,
+      "mayorista_10": 48700,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "57df8ea4-6ea4-4963-980f-6244d9de2183",
+    "nombre": "Asad Zanzibar",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 34700,
+      "mayorista_3": 32000,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d30056d3-6c28-4a17-9d23-61ec3eab0145",
+    "nombre": "Atlas",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "55ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 67200,
+      "mayorista_3": 59300,
+      "mayorista_10": 53200,
+      "decant": 14000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "afd79f6f-70b0-4d79-986f-a56f6fbefb56",
+    "nombre": "Bade'e Al Oud Amethyst",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45800,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "92c16049-6434-4fb8-820e-b6183aaba6cc",
+    "nombre": "Bade'e Al Oud For Glory",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "21a88ddd-8d4c-4c07-8060-1737ee8fe0aa",
+    "nombre": "Bade'e Al Oud Honor & Glory",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "af51ac49-55d7-43c4-8253-a04eccff9d42",
+    "nombre": "Bade'e Al Oud Noble Blush",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40300,
+      "mayorista_3": 36500,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "0d3823a4-6fbf-4de6-a63a-af0d74bc1543",
+    "nombre": "Bade'e Al Oud Sublime",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 46100,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f92e462e-3962-4079-9f22-1f370d20192d",
+    "nombre": "Confidential Platinium",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 34700,
+      "mayorista_3": 32000,
+      "mayorista_10": 28900,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ffd06489-6113-4c81-9605-02c5d739f5e6",
+    "nombre": "Confidential Private Gold",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40600,
+      "mayorista_3": 35000,
+      "mayorista_10": 30400,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f1587a38-8bdb-4819-87ae-819f14077313",
+    "nombre": "Dynasty",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 71000,
+      "mayorista_3": 62400,
+      "mayorista_10": 56300,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1dd415aa-88e4-402d-8c9d-4c93970946a8",
+    "nombre": "Eclaire",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53800,
+      "mayorista_3": 45600,
+      "mayorista_10": 41100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "827467ca-f240-4868-9254-129d43a22c81",
+    "nombre": "Eclaire Banoffi",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Rojas, Vainilla, Caramelo — Gourmand Frutal",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 64200,
+      "mayorista_3": 59300,
+      "mayorista_10": 56300,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a770c5bc-1741-409a-a1a6-8fe64b05ab70",
+    "nombre": "Eclaire Pistache",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Rojas, Vainilla, Caramelo — Gourmand Frutal",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 63400,
+      "mayorista_3": 57800,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "55a60bf8-a562-4595-a9fe-5b6ab150ce21",
+    "nombre": "Emaan",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44800,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "307c058e-a13f-42eb-9aeb-ffce8485ce4c",
+    "nombre": "Emeer Eau de Parfum 100ml",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Bergamota, Madera de Cedro, Almizcle — Amaderada Aromática",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 78700,
+      "mayorista_3": 62400,
+      "mayorista_10": 59300,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "bd54bf91-3d8a-4b7b-9319-4378c62de815",
+    "nombre": "Fakhar Gold Extract",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "7fe4b0b5-2382-4298-a1d2-ae8503cfda66",
+    "nombre": "Fakhar Men Black",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "45f6b209-77fa-43d0-8a7c-f1c8812bb39e",
+    "nombre": "Fakhar Platino Silver",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 46600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "2171d5a5-d885-446a-9fcf-0c5c7380af7e",
+    "nombre": "Fakhar Rose",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53600,
+      "mayorista_3": 47200,
+      "mayorista_10": 44100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "2e176e99-0ae0-4629-ba47-42c1ed8589b5",
+    "nombre": "Habik For Men",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 54200,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "975f0903-92ca-4904-b3f6-5cea393a37fa",
+    "nombre": "Habik For Woman",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "44a4cc99-46d2-4454-ae42-95e76659c443",
+    "nombre": "Haya",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 56800,
+      "mayorista_3": 45600,
+      "mayorista_10": 42600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5dd304e4-2da4-4549-8d86-5678818133dd",
+    "nombre": "Hayaati Al Maleky",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 36800,
+      "mayorista_3": 33500,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b28ca4d3-1cc5-4d1e-b9a0-9eb6faf01052",
+    "nombre": "Hayaati Black",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 41000,
+      "mayorista_3": 35000,
+      "mayorista_10": 32000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ed28aa2c-97e5-47b4-92af-814d2e6969cc",
+    "nombre": "Hayaati Gold Elixir",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38200,
+      "mayorista_3": 30400,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "735fbfba-5267-42b4-b6ef-ee4a8d2aea4e",
+    "nombre": "Hayaati Florence Edp 100ml",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38800,
+      "mayorista_3": 33500,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "deadbf3c-3271-48e9-a6b7-35b4797b9a23",
+    "nombre": "Her Confession",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Peonía, Almizcle Blanco — Floral Femenina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 58500,
+      "mayorista_3": 53200,
+      "mayorista_10": 48700,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1a950054-de7f-4b5d-89fa-23b40ebeb325",
+    "nombre": "His Confession",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "7d298742-0914-4215-9b6e-47c1c97b7666",
+    "nombre": "Khamrah",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Canela, Vainilla, Café — Gourmand Especiado",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44800,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b06dd398-7886-46bb-9300-53c16e75e031",
+    "nombre": "Khamrah Dukhan",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Canela, Vainilla, Café — Gourmand Especiado",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44800,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b017c263-9e18-4b35-8d0d-03a0318969a4",
+    "nombre": "Khamrah Qahwa",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Canela, Vainilla, Café — Gourmand Especiado",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "5896761c-3dca-4932-99ad-b5a9f91849df",
+    "nombre": "Maahir Black Edition",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47600,
+      "mayorista_3": 41100,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4b915deb-0eaa-40a5-b4a0-a343cae53113",
+    "nombre": "Maahir Legacy",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 51800,
+      "mayorista_3": 45600,
+      "mayorista_10": 42600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b28890d0-74b3-4e88-86fd-87fe8a7d164b",
+    "nombre": "Mashrabya",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 43300,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "baf9b4be-c3ca-469d-b122-fc6178b02f5b",
+    "nombre": "Mayar Cherry Intense",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Rojas, Vainilla, Caramelo — Gourmand Frutal",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "043d7f53-da74-4858-800f-b36220e7d9a6",
+    "nombre": "Mayar Natural Intense",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frambuesa, Rosa, Vainilla — Frutal Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 46000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fe974c5e-a392-409a-b450-f29020356e41",
+    "nombre": "Mayar Rose",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49100,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "0e21c015-6859-4559-acb0-c1ff9bc911f2",
+    "nombre": "Mohra Silky Rose",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40100,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "4e540e4d-53a1-4a0d-90a7-9f41189d54f3",
+    "nombre": "Musamam",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 58600,
+      "mayorista_3": 53200,
+      "mayorista_10": 48700,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f1918c2a-630a-4649-8fe2-38a0fc1b515b",
+    "nombre": "Musamam White Intense",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 68900,
+      "mayorista_3": 57800,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ce6d0ecf-f21d-476f-a6bc-ec2cf339fae2",
+    "nombre": "Opulence Dubai",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 52100,
+      "mayorista_3": 44100,
+      "mayorista_10": 39600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c23332d9-22e5-4de2-8c9c-03152756b864",
+    "nombre": "Opulence Oud",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 35700,
+      "mayorista_3": 30400,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fa5ac692-af03-4471-9137-ccc99241434d",
+    "nombre": "Oud Mood",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38000,
+      "mayorista_3": 32000,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3038d2e4-29f3-4de7-a5a5-fbc82158cd81",
+    "nombre": "Oud Mood",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "Elixir",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Oud, Ámbar, Sándalo — Amaderada Oriental",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38000,
+      "mayorista_3": 32000,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d1156576-f492-4bc9-83b6-518b1208089a",
+    "nombre": "Petra",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 58800,
+      "mayorista_3": 54800,
+      "mayorista_10": 50200,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3b6ffc94-aa2a-48ba-81f2-1c6f4a5c117e",
+    "nombre": "Pride Ansaam Gold",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "86c7baba-59bb-4af8-9518-f26024e01fca",
+    "nombre": "Pride Art of Universe",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 74500,
+      "mayorista_3": 63900,
+      "mayorista_10": 59300,
+      "decant": 11000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "58b0795e-4a70-4b21-8b51-2c87b900272e",
+    "nombre": "Pride Nebras",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 54400,
+      "mayorista_3": 48700,
+      "mayorista_10": 45600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f58e8abf-ffff-4308-adb9-57cd2d4a4290",
+    "nombre": "Pride Vintage Radio",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 60100,
+      "mayorista_3": 50200,
+      "mayorista_10": 42600,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "6630e98a-0338-417b-89b3-cc5a2169ac5f",
+    "nombre": "Qaed Al Fursan",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39000,
+      "mayorista_3": 35000,
+      "mayorista_10": 32000,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "932bca75-4765-44b0-b908-cafce552664e",
+    "nombre": "Qaed Al Fursan Unlimited",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 34200,
+      "mayorista_3": 30400,
+      "mayorista_10": 27400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "89b37d4e-9785-42a4-9f8e-8951383d6505",
+    "nombre": "Qaed Al Fursan Untamed",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "90ml",
+    "imagen": null,
+    "notas": "Pimienta Negra, Cuero, Vetiver — Especiada Intensa",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 36700,
+      "mayorista_3": 35000,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "255adfe6-9b3a-4933-85bb-f2ad8a27f30f",
+    "nombre": "Qimmah for Men",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39100,
+      "mayorista_3": 36500,
+      "mayorista_10": 32000,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "9b06b18f-3960-4357-bc73-2c7ac5c64d47",
+    "nombre": "Qimmah for Women",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53600,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e9063bc9-8c20-44b2-8453-445f2f267377",
+    "nombre": "Queen of Arabia",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "accc4d05-7e5a-4597-a611-de6c17b755ec",
+    "nombre": "Rave Now Black",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 48000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fb7b19fb-1f9c-41e3-827b-2a9dc54a714a",
+    "nombre": "Rave Now Pink",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 42000,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "45f35e67-655c-4b7e-b061-19459cedeb6b",
+    "nombre": "Rave Rage",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Pimienta Negra, Cuero, Vetiver — Especiada Intensa",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 61300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d5113f0a-0d5c-41c6-8a07-d6aca0ab067e",
+    "nombre": "Sakeena",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 43300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "366b41bd-329e-4b55-8888-a84548738703",
+    "nombre": "Sondos",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "70857907-2fce-4fee-8ff4-3a77bc3785ed",
+    "nombre": "Taureau de Combat",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Pimienta Negra, Cuero, Vetiver — Especiada Intensa",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 101100,
+      "mayorista_3": 82100,
+      "mayorista_10": 74500,
+      "decant": 14000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "eee67efd-7fe9-4177-9c81-426c0affa1e6",
+    "nombre": "Teriaq Intense",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Unisex",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 60100,
+      "mayorista_3": 47200,
+      "mayorista_10": 44100,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c823da41-cae8-4ab5-9761-e5ca2337f825",
+    "nombre": "The Kingdom For Her",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 38000,
+      "mayorista_3": 38000,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1c6ba21e-768f-40ce-9218-5c494afc5b47",
+    "nombre": "The Kingdom Men",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Azafrán, Rosa, Oud — Oriental Lujoso",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 63200,
+      "mayorista_3": 56300,
+      "mayorista_10": 51700,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "74730d8e-95c2-40ca-bb99-4091858ef132",
+    "nombre": "Victoria",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49000,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "fe048ce5-de9e-4a64-aa18-5f814a0c43ca",
+    "nombre": "Wajood",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "7d390e48-797f-47ab-897a-807392a9ee17",
+    "nombre": "Yara Candy",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Rojas, Vainilla, Caramelo — Gourmand Frutal",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 40800,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1e8b16f3-7b84-4757-949f-86d1024c7cb2",
+    "nombre": "Yara Elixir",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 60100,
+      "mayorista_3": 47200,
+      "mayorista_10": 45600,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "6103d0ee-d80f-464b-86fc-e87825859a38",
+    "nombre": "Yara Moi",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 37300,
+      "mayorista_3": 36500,
+      "mayorista_10": 35000,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "784ed6d4-456b-4f16-968a-e4462558e788",
+    "nombre": "Yara Rosa",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 40000,
+      "mayorista_3": 35000,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "8200474c-f141-438f-af83-4fbe32803323",
+    "nombre": "Yara Tous",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 36500,
+      "mayorista_3": 35000,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "3ebe3c9c-d8d9-4d8a-8606-cea61fe7369a",
+    "nombre": "Yara Kit",
+    "label": null,
+    "marca": "Lattafa",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "4x25ml",
+    "imagen": null,
+    "notas": "Frutas Tropicales, Vainilla, Almizcle — Frutal Dulce",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 61600,
+      "mayorista_3": 50200,
+      "mayorista_10": 47200,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "86b226b0-08b9-4e39-80ca-4f7823608b59",
+    "nombre": "Alpine Homme Sport",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Cedro — Aromática Deportiva",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 47300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a2cc9edc-91fd-4a31-be0f-c6d30cd6e139",
+    "nombre": "Athena",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "4c16ce6d-cbd6-49a8-a60a-95ac50d9df82",
+    "nombre": "Bad Femme",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Peonía, Almizcle Blanco — Floral Femenina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45400,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "c1d6e448-5a14-4659-8307-bc5d09a0761c",
+    "nombre": "Bad Homme",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47000,
+      "mayorista_3": 41100,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "0b393d5f-585e-46e7-82c5-83a843cc4f54",
+    "nombre": "Candid Tonight",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 48800,
+      "mayorista_3": 42600,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "191af892-5594-4313-a639-f0d3651e48f9",
+    "nombre": "Céleste",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100Ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "8625bdc4-f6dd-4d50-bf21-b8225464bd6e",
+    "nombre": "Dark Door Sport",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Cedro — Aromática Deportiva",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 39000,
+      "mayorista_3": 35000,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "81548942-2dd2-43dc-af5c-63dcbc038efb",
+    "nombre": "Delilah",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "d2de1622-9af7-4fb4-adee-16683c2ba5e9",
+    "nombre": "Desirable Addiction",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45800,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "22ee9690-b70b-446a-98a8-54f12c93d420",
+    "nombre": "Extravagant Lover",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45000,
+      "mayorista_3": 38000,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "72b1e919-8095-4430-8477-a5f27b9c889f",
+    "nombre": "Flaming Elixir",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45000,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "2c414887-f78f-4d6a-835b-b6342f8736f3",
+    "nombre": "Floral Profumo",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Jazmín, Almizcle Blanco — Floral",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 4,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 52400,
+      "mayorista_3": 41100,
+      "mayorista_10": 35000,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f7826e83-1079-497a-bdf9-034203e2c3aa",
+    "nombre": "Galactic Men Elixir",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": null,
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 40300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d0a7f168-a086-4185-a9ba-bf02470cfff0",
+    "nombre": "Glacier Bella",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 42000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "6c3d0e71-d6f8-4a65-b137-f769bdfc9c13",
+    "nombre": "Glacier Bold",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47100,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "ec5d549c-c61e-44c8-8672-7aab5466805f",
+    "nombre": "Glacier Ultra",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Cedro — Aromática Deportiva",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 41000,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "e3cf532a-c8b3-409a-a7f0-126eb1a360d3",
+    "nombre": "Jean Lowe Fraiche",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": 43500,
+      "mayorista_3": 38000,
+      "mayorista_10": 32000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "7d74c2bf-d6e4-40aa-9ba9-66d02fdbb91e",
+    "nombre": "Jean Lowe Inmortal",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 48300,
+      "mayorista_3": 42600,
+      "mayorista_10": 39600,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "297a24ff-337e-446c-a1d8-97cba1e5e34a",
+    "nombre": "Jean Lowe Matiere",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44100,
+      "mayorista_3": 39600,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f988c2ae-9e23-4b87-bada-025faafad1da",
+    "nombre": "Jean Lowe Noir",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 56100,
+      "mayorista_3": 47200,
+      "mayorista_10": 42600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b638e22b-7866-439b-baba-6605062b386d",
+    "nombre": "L'intrude",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 44400,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "0427dcb6-31ca-4df4-bc9c-7cd838a7a48b",
+    "nombre": "La Rouge Baroque",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 43300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "443fc1fe-6c7e-49f9-8e7a-a92e1c45a801",
+    "nombre": "La Vivacité",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 46300,
+      "mayorista_3": 39600,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "0ce12953-c1ed-4b68-bc21-1a042d7c222b",
+    "nombre": "La Voie",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 42300,
+      "mayorista_3": 33500,
+      "mayorista_10": 30400,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "48775290-89a3-4d79-b132-5fde9949d039",
+    "nombre": "Leonie",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 45000,
+      "mayorista_3": 39600,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "eabf6c27-0800-4fab-b012-9947886e1cdb",
+    "nombre": "Opulence Leather",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Sándalo, Cedro, Vetiver — Amaderada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 49700,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "f33e79d7-c87d-4a92-bc5c-0b90b28ca13b",
+    "nombre": "Pacific Blue",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "80ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 41500,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "a3e814fe-3e17-4a37-a95f-377adb0023b2",
+    "nombre": "Philos Centro",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 36300,
+      "mayorista_3": 33500,
+      "mayorista_10": 30400,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "be22dc58-c26c-47f1-a864-2b31c3c643fb",
+    "nombre": "Philos Pura",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 46100,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1be1f2bb-a436-4eaa-a0f5-aff1f9860341",
+    "nombre": "Pink Eclipse Edp 100ml",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Femenino",
+    "estilo": "Designer",
+    "concentracion": null,
+    "volumen": null,
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "75c995d7-1e66-4aee-86c8-aeb442c6fe3a",
+    "nombre": "Salvo",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 41100,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "8ee8e389-3c2a-4437-94a5-b935e17d3e48",
+    "nombre": "Salvo",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "Elixir",
+    "volumen": "60ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39800,
+      "mayorista_3": 33500,
+      "mayorista_10": 32000,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "647ad4ff-e093-4359-8e79-a86ed76657af",
+    "nombre": "Salvo Intense",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 41100,
+      "mayorista_3": 38000,
+      "mayorista_10": 35000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b8c46332-27c8-4cda-8deb-6bb9a9f335f4",
+    "nombre": "Sceptre Amazonite",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 43000,
+      "mayorista_3": 38000,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "dd18ec39-088a-486c-9aba-8968240fa22f",
+    "nombre": "Sceptre Malachite",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Unisex",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 52100,
+      "mayorista_3": 47200,
+      "mayorista_10": 44100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "223a2fb8-f99c-4eb2-b00f-c8a46b888165",
+    "nombre": "Yeah Man",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 42800,
+      "mayorista_3": 39600,
+      "mayorista_10": 36500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "7d8b7c24-fede-47f8-aac4-87bbc55aa36c",
+    "nombre": "Yeah Man Parfum",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Bergamota, Lavanda, Almizcle — Aromática Masculina",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "daac4257-550b-4299-81d1-8dda5989d1d7",
+    "nombre": "Your Touch Amber",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Ámbar, Vainilla, Almizcle — Oriental Ambarado",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d9def4e2-6e6e-400d-b9eb-6e9edf07fac4",
+    "nombre": "Your Touch Extrait",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b37f7a7e-a81d-4102-ab15-79cd37fb2535",
+    "nombre": "Your Touch Santal",
+    "label": null,
+    "marca": "Maison Alhambra",
+    "genero": "Masculino",
+    "estilo": "Designer",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Sándalo, Cedro, Vetiver — Amaderada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 39300,
+      "mayorista_3": 36500,
+      "mayorista_10": 33500,
+      "decant": 7000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "d505ddbf-7d12-4d78-80d4-aec4802a0bb1",
+    "nombre": "Hawas Black",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias, Cuero, Oud — Especiada Oscura",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 51900,
+      "mayorista_3": 48700,
+      "mayorista_10": 45600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "1a25efb6-5d33-4a3d-b10a-6c9f59628c89",
+    "nombre": "Hawas ELIXIR",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": null,
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 68200,
+      "mayorista_3": 56300,
+      "mayorista_10": 51700,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "65e9d4df-6cf4-451d-8854-666be25eab35",
+    "nombre": "Hawas Fire",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Canela, Azafrán, Ámbar — Especiada Cálida",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "5e7ade14-5f19-44c4-b633-8958f4b5632f",
+    "nombre": "Hawas For Her",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Rosa, Peonía, Almizcle Blanco — Floral Femenina",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Otoño"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Cita"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 47300,
+      "mayorista_3": 41100,
+      "mayorista_10": 38000,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "aba57fd2-af64-47ac-a24a-ca5a8c84b72d",
+    "nombre": "Hawas For Him",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 51100,
+      "mayorista_3": 45600,
+      "mayorista_10": 42600,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "478f06ea-b7b8-46f4-8552-34444c949157",
+    "nombre": "Hawas Ice",
+    "label": null,
+    "marca": "Rasasi",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Acuáticas, Cítricos, Almizcle — Acuática Fresca",
+    "costo": null,
+    "temporadas": [
+      "Primavera",
+      "Verano"
+    ],
+    "horarios": [
+      "Mañana",
+      "Tarde"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Deporte"
+    ],
+    "versatilidad": 5,
+    "edades": [
+      "Juvenil",
+      "Joven"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "5a3122e6-cbc2-4211-9312-2f083fbc8b93",
+    "nombre": "Elixir",
+    "label": null,
+    "marca": "Rayhaan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": null,
+      "mayorista_3": null,
+      "mayorista_10": null,
+      "decant": null
+    },
+    "stock": 0,
+    "oferta": null,
+    "active": false
+  },
+  {
+    "id": "cbdcf0b6-4af8-4a50-a361-5d96ed7198cc",
+    "nombre": "Valhalla",
+    "label": null,
+    "marca": "Rayhaan",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 69700,
+      "mayorista_3": 59300,
+      "mayorista_10": 54800,
+      "decant": 10000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "74499d75-13ca-44d8-8c3c-fbab1045fe0a",
+    "nombre": "Evolution",
+    "label": null,
+    "marca": "Zimaya",
+    "genero": "Masculino",
+    "estilo": "Arabe",
+    "concentracion": "EDP",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Notas Amaderadas, Especias, Almizcle — Eau de Parfum",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Casual",
+      "Trabajo"
+    ],
+    "versatilidad": 3,
+    "edades": [
+      "Joven",
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 48000,
+      "mayorista_3": 39600,
+      "mayorista_10": 33500,
+      "decant": 8000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "b62eeb4f-01c6-4586-b6f0-ee378ff854e1",
+    "nombre": "Fatima",
+    "label": null,
+    "marca": "Zimaya",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "Extrait De Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53100,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  },
+  {
+    "id": "cabc6cd2-be4d-4994-b276-e54cd19c3a5b",
+    "nombre": "Fatima Velvet Love",
+    "label": null,
+    "marca": "Zimaya",
+    "genero": "Femenino",
+    "estilo": "Arabe",
+    "concentracion": "Extrait De Parfum",
+    "volumen": "100ml",
+    "imagen": null,
+    "notas": "Especias Cálidas, Ámbar, Pachulí — Intensa Especiada",
+    "costo": null,
+    "temporadas": [
+      "Otoño",
+      "Invierno"
+    ],
+    "horarios": [
+      "Tarde",
+      "Noche"
+    ],
+    "ocasiones": [
+      "Formal",
+      "Cita",
+      "Fiesta"
+    ],
+    "versatilidad": 2,
+    "edades": [
+      "Adulto"
+    ],
+    "precios": {
+      "unitario": 53100,
+      "mayorista_3": 44100,
+      "mayorista_10": 41100,
+      "decant": 9000
+    },
+    "stock": 5,
+    "oferta": null,
+    "active": true
+  }
+]

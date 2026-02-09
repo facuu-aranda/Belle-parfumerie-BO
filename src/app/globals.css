@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+/* ── Light mode (default) — Belle Parfumerie design system ── */
+:root {
+  --background: #fef8f5;
+  --foreground: #380c03;
+  --cream: #fdf0ea;
+  --rose: #fcd5c4;
+  --rose-light: #fde8df;
+  --mauve: #d4887a;
+  --lavender: #ffb5a2;
+  --lavender-light: #fde3da;
+  --violet: #9e1906;
+  --violet-deep: #7a1305;
+  --muted: #fdf2ed;
+  --muted-foreground: #7a4a3e;
+  --card: #ffffff;
+  --border: #f0d8cf;
+  --gold: #b8860b;
+  --gold-light: #d4a843;
+  --gold-shimmer: #e8c86a;
+  --btn-primary: #9e1906;
+  --btn-primary-hover: #7a1305;
+  --btn-primary-text: #ffffff;
+  --footer-bg: #380c03;
+  --glass: rgba(255, 255, 255, 0.68);
+  --glass-border: rgba(240, 216, 207, 0.5);
+  --glow: rgba(158, 25, 6, 0.2);
+  --success: #16a34a;
+  --success-light: #dcfce7;
+  --danger: #dc2626;
+  --danger-light: #fee2e2;
+  --warning: #f59e0b;
+  --warning-light: #fef3c7;
+}
+
+/* ── Dark mode ── */
+:root.dark {
+  --background: #0f0401;
+  --foreground: #fde8df;
+  --cream: #1c0a04;
+  --rose: #3a1208;
+  --rose-light: #2a0d05;
+  --mauve: #b87060;
+  --lavender: #d4887a;
+  --lavender-light: #2e1109;
+  --violet: #ffb5a2;
+  --violet-deep: #fcd5c4;
+  --muted: #180805;
+  --muted-foreground: #c49a8e;
+  --card: #1c0a04;
+  --border: #3a1a10;
+  --gold: #d4a843;
+  --gold-light: #e8c86a;
+  --gold-shimmer: #f0d88a;
+  --btn-primary: #ffb5a2;
+  --btn-primary-hover: #fcd5c4;
+  --btn-primary-text: #1a0602;
+  --footer-bg: #0a0200;
+  --glass: rgba(15, 4, 1, 0.78);
+  --glass-border: rgba(58, 26, 16, 0.5);
+  --glow: rgba(255, 181, 162, 0.15);
+  --success: #22c55e;
+  --success-light: #14532d;
+  --danger: #ef4444;
+  --danger-light: #450a0a;
+  --warning: #fbbf24;
+  --warning-light: #451a03;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-cream: var(--cream);
+  --color-rose: var(--rose);
+  --color-rose-light: var(--rose-light);
+  --color-mauve: var(--mauve);
+  --color-lavender: var(--lavender);
+  --color-lavender-light: var(--lavender-light);
+  --color-violet: var(--violet);
+  --color-violet-deep: var(--violet-deep);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-shimmer: var(--gold-shimmer);
+  --color-btn-primary: var(--btn-primary);
+  --color-btn-primary-hover: var(--btn-primary-hover);
+  --color-btn-primary-text: var(--btn-primary-text);
+  --color-footer-bg: var(--footer-bg);
+  --color-success: var(--success);
+  --color-success-light: var(--success-light);
+  --color-danger: var(--danger);
+  --color-danger-light: var(--danger-light);
+  --color-warning: var(--warning);
+  --color-warning-light: var(--warning-light);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
